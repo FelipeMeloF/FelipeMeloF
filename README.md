@@ -27,10 +27,12 @@ more specifically on Automatic Software Tests. I'm Software Testing Intern in a 
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=FelipeMeloF&show_icons=true&theme=radical&count_private=true" />
 </a>
 <a href="https://github.com/FelipeMeloF/github-readme-stats">
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMeloF&layout=compact&theme=radical&hide=html, Kotlin" />
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMeloF&layout=compact&theme=radical&hide=kotlin" />
+
 </a>
 
-![ViewCount](https://views.whatilearened.today/views/github/GuilhermeJC13/views.svg)  
+
+![ViewCount](https://views.whatilearened.today/views/github/FelipeMeloF/views.svg)  
 
 # Experience
 
