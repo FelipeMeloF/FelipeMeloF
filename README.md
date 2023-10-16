@@ -65,7 +65,7 @@ more specifically on Automatic Software Tests. I'm Software Testing Intern in a 
 
 
 # Licences and Certifications
-- [Certified Tester Foundation Level - CTFL](https://bcr.bstqb.org.br/cert?field_certificado_nome_value=Felipe+Melo+Feliciano+de+S%C3%A1&field_certificado_numero_value=+)
+- [Certified Tester Foundation Level (CTFL) - ISTQB® - International Software Testing Qualifications Board](https://bcr.bstqb.org.br/cert?field_certificado_nome_value=Felipe+Melo+Feliciano+de+S%C3%A1&field_certificado_numero_value=+)
 - [Automatic Tests + Software Tests](https://www.udemy.com/certificate/UC-346f9648-85ca-448d-8783-5a13877a27e0/)
 - [Fundamentals Quality Assurance: TestPlan and Good Practices](https://cursos.alura.com.br/certificate/2946c779-5fc0-425f-a08a-8270bfd54728)
 - [Six Sigma: Methodology for Process Improvement](https://cursos.alura.com.br/certificate/036aa232-b12f-4ed3-a287-dd93191eeb69)
