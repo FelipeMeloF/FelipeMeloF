@@ -73,19 +73,31 @@ more specifically on Automatic Software Tests. I'm Software Testing Intern in a 
 
 # Publications
 - [Using Eye Tracking to Map Attention in an EEG-Based Brainwave Graphic Visualization System ](https://doi.org/10.1007/978-3-031-45611-4_9)
-XI Iberoamerican Conference on Applications and Usability of Interactive TV, jAUTI 2022, Cordoba, Spain / Springer
+
+  XI Iberoamerican Conference on Applications and Usability of Interactive TV, jAUTI 2022, Cordoba, Spain / Springer
+
 - [Handbook de Pesquisas em Interação e Mídia: Perspectivas sobre o estado da arte](http://www.editora.ufpb.br/sistema/press5/index.php/UFPB/catalog/book/1145)
-Editora UFPB
+
+  Editora UFPB
 - [Research on Brain-Computer Interfaces in the Entertainment Field](https://link.springer.com/chapter/10.1007/978-3-031-35596-7_26)
-HCI International 2023, Copenhagen, Denmark / Springer
+  
+  HCI International 2023, Copenhagen, Denmark / Springer
+
 - [Incorporating Eye Tracking into an EEG-Based Brainwave Visualization System](https://link.springer.com/chapter/10.1007/978-3-031-35596-7_25)
-HCI International 2023, Copenhagen, Denmark / Springer
+
+  HCI International 2023, Copenhagen, Denmark / Springer
+
 - [Heuristic-Based Evaluation of Transparency Websites of the Municipal Governments Viewed on Web and Mobile Browsers](https://link.springer.com/chapter/10.1007/978-3-031-35599-8_29)
-HCI International 2023, Copenhagen, Denmark / Springer
+
+  HCI International 2023, Copenhagen, Denmark / Springer
+
 - [Visualization of brainwaves using EEG to map emotions with Eye Tracking to identify attention in audiovisual workpieces](https://dl.acm.org/doi/fullHtml/10.1145/3539637.3557055)
-Brazilian Symposium on Multimedia and Web (Webmedia 2022) - Sociedade Brasileira de Computação, Curitiba, Brazil / ACM Digital Library
+
+  Brazilian Symposium on Multimedia and Web (Webmedia 2022) - Sociedade Brasileira de Computação, Curitiba, Brazil / ACM Digital Library
+
 - [A System for Graphical Visualization of Brainwaves to Analyse Media Content Consumption](https://link.springer.com/chapter/10.1007/978-3-031-05409-9_24)
-HCI International 2022, Gothenburg, Sweden / Springer
+
+  HCI International 2022, Gothenburg, Sweden / Springer
 
 
 # Skills
