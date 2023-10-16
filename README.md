@@ -8,13 +8,13 @@ Hello, my name is Felipe and I'm from Brazil. I'm a Computer Engineering student
 more specifically on Automatic Software Tests. I'm Software Testing Intern in a LAViD/Fuze.cc project. I have experience in C/C++, I have notions of object orientation, data structure, concurrent programming. I'm currently studying software testing, Quality Assurance and I'm still improving my English and French. I am a Scientific Initiation student, I have been working on the project "Computer Brain Interaction in on-demand video systems: evaluation, recommendation and value perceptions" at the Interaction and Media Laboratory - LIM.
 
 # Volunteer Experience
-- Presidente and Founder of the [Compilada](https://www.instagram.com/atleticaengcomp_ufpb/) (Computer Engineering Academic Athletic Association).
+- Ex-President and Founder of the [Compilada](https://www.instagram.com/atleticaengcomp_ufpb/) (Computer Engineering Academic Athletic Association).
 
-- Presidente of the [CAECOMP](https://www.instagram.com/caecomp.ci.ufpb/) (Academic Center of computer engineering at UFPB).
+- Ex-President of the [CAECOMP](https://www.instagram.com/caecomp.ci.ufpb/) (Academic Center of computer engineering at UFPB).
 
 - Scientific Researcher at [LIM](https://www.linkedin.com/company/ufpblim/?originalSubdomain=br) (Interaction and Media Laboratory).
 
-- Member of [LAViD](http://lavid.ufpb.br/) (Digital Video Applications Laboratory).
+- Scientific Researcher at [LAViD](http://lavid.ufpb.br/) (Digital Video Applications Laboratory).
 
 - Member of [LASER](https://www.ufpb.br/idep/contents/menu/laboratorios-associados-ao-idep-ufpb/laboratorio-de-engenharia-de-sistemas-e-robotica-laser) (Laboratory of Systems Engineering and Robotics).
 
