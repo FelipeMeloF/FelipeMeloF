@@ -50,6 +50,11 @@ My main goal is to achieve technical excellence and secure a position as a **Tec
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=FelipeMeloF&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FelipeMeloF&layout=compact&theme=tokyonight&hide_border=true&hide=kotlin" alt="Top Languages" />
+</div>
 
 ---
 
