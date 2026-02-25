@@ -59,10 +59,11 @@ My main goal is to achieve technical excellence and secure a position as a **Tec
 
 <ul>
   <li>
-    <a href="https://simiatech.com.br">Simia Tech</a>: CEO & Founder
+    <a href="https://simiatech.com.br"><b>Simia Tech</b></a>
     <ul>
       <li>
-        <b> Focus: </b> Leading a Software House, defining technical architecture, ensuring software quality standards, and managing innovative tech projects. (Current)
+        <b>CEO & Founder</b> <i>(Present)</i><br/>
+        Leading a Software House, defining technical architecture, ensuring software quality standards, and managing innovative tech projects.
       </li>
     </ul>
   </li>
@@ -70,10 +71,19 @@ My main goal is to achieve technical excellence and secure a position as a **Tec
 
 <ul>
   <li>
-    <a href="https://www.vsoft.com.br">Vsoft</a>: QA Analyst (Mid/Senior)
+    <a href="https://www.vsoft.com.br"><b>Vsoft</b></a>
     <ul>
       <li>
-        <b> Focus: </b> Test automation and quality analysis. (Current)
+        <b>Mid-Level Software Quality Analyst (QA)</b> <i>(Apr 2024 - Present)</i><br/>
+        Direct involvement in continuous improvement and quality assurance for the Exame Prático product. Creating test plans and test cases.
+      </li>
+      <li>
+        <b>Junior II Software Quality Analyst (QA)</b> <i>(Dec 2022 - Mar 2024)</i><br/>
+        Continuous improvement and quality assurance for Exame Teórico and Exame Prático products.
+      </li>
+      <li>
+        <b>Trainee Software Quality Analyst (QA)</b> <i>(May 2022 - Nov 2022)</i><br/>
+        Continuous improvement and quality assurance for Exame Teórico and Exame Prático products.
       </li>
     </ul>
   </li>
@@ -81,10 +91,58 @@ My main goal is to achieve technical excellence and secure a position as a **Tec
 
 <ul>
   <li>
-    <a href="https://fuze.cc/">Fuze.cc</a>: Software Testing Analyst (QA)
+    <b>LIM - Laboratório de Interação e Mídia</b>
     <ul>
       <li>
-        <b> Goal: </b> I am responsible for the maintenance and elaboration of the test cases, for the execution of manual and automatic system tests, regression tests, documentation of the issues found and approval of the application's releases. I work with agile methodologies, such as scrum, in weekly sprints, and kanban to manage the progress of the issues found. I use Appium to perform automatic tests, which are programmed in Javascript, in addition to Webdriver.io to create test case scripts. I also use Appium Inspector to do all the mapping of the application for programming the automatic system tests. The development is in the Project “Hope: Platform for Application Development Focused on Care Networks”, and the objective of the HOPE project is to develop a generic platform that helps in the development of mobile applications for building care networks. Care networks can be seen as a type of exclusive social network to support and help people who have some type of chemical dependency, people with depression, the elderly, people with disabilities, among others. (Nov 2021 - Aug 2022)
+        <b>QA Technical Lead & Researcher</b> <i>(Sep 2021 - Present)</i><br/>
+        Responsible for leading all functional, non-functional, and usability tests in the laboratory.
+      </li>
+      <li>
+        <b>Project Manager</b> <i>(Sep 2023 - Sep 2024)</i><br/>
+        Managed all projects within the laboratory, including Web Development and Software R&D teams.
+      </li>
+      <li>
+        <b>Scientific Initiation Scholar (CNPq)</b> <i>(Sep 2021 - Sep 2024)</i><br/>
+        Project topic: "Brain-Computer Interaction in video-on-demand systems: evaluation, recommendation, and value perceptions."
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <b>LAVID - Laboratório de Aplicações de Vídeo Digital</b>
+    <ul>
+      <li>
+        <b>UX and Software Accessibility Researcher</b> <i>(Jul 2023 - Feb 2024)</i>
+      </li>
+      <li>
+        <b>Software Test Analyst (QA) – Internship</b> <i>(Nov 2021 - Jul 2023)</i><br/>
+        Maintenance and creation of test cases, execution of manual and automated system tests, and bug documentation.
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <a href="https://fuze.cc/"><b>Fuze.cc</b></a>
+    <ul>
+      <li>
+        <b>Software Test Analyst (QA) – Internship</b> <i>(Dec 2021 - Aug 2022)</i><br/>
+        Maintenance and elaboration of test cases, manual and automated system tests, and regression testing using agile methodologies. Used Appium and Webdriver.io.
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <b>Universidade Federal da Paraíba (UFPB)</b>
+    <ul>
+      <li>
+        <b>Academic Monitor</b> <i>(Sep 2020 - Dec 2020)</i><br/>
+        Monitor for the "Vector Calculus and Analytical Geometry" discipline.
       </li>
     </ul>
   </li>
@@ -93,7 +151,7 @@ My main goal is to achieve technical excellence and secure a position as a **Tec
 ### 🌍 Leadership & Volunteer Experience
 *   Compilada (UFPB Computer Eng. Athletic Association) - Former President and Founder.
 *   CAECOMP (Academic Center) - Former President.
-*   Research Laboratories: Researcher at LIM (Human-Media Interaction), LAViD (Digital Video), and member of LASER (Systems and Robotics).
+*   LASER (Systems and Robotics Laboratory) - Member.
 
 ---
 
