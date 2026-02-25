@@ -50,17 +50,6 @@ My main goal is to achieve technical excellence and secure a position as a **Tec
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=FelipeMeloF&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=FelipeMeloF&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FelipeMeloF&layout=compact&theme=tokyonight&hide_border=true&hide=kotlin" alt="Top Languages" width="48%" />
-</div>
-
-<br/>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeMeloF&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="90%"/>
-</div>
 
 ---
 
