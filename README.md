@@ -26,11 +26,13 @@ My main goal is to achieve technical excellence and secure a position as a **Tec
 
 ## 🛠️ Tech Stack & Tools
 
-### Test Automation & QA
+### Test Automation, QA & DevOps
 <p align="left">
   <img src="https://img.shields.io/badge/Appium-41BDF5?style=for-the-badge&logo=appium&logoColor=white" alt="Appium" />
   <img src="https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=WebdriverIO&logoColor=white" alt="WebdriverIO" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
   <img src="https://img.shields.io/badge/ISTQB%20Certified-00529B?style=for-the-badge&logo=dependabot&logoColor=white" alt="ISTQB" />
 </p>
 
