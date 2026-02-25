@@ -50,16 +50,6 @@ My main goal is to achieve technical excellence and secure a position as a **Tec
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=FelipeMeloF&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FelipeMeloF&layout=compact&theme=tokyonight&hide_border=true&hide=kotlin" alt="Top Languages" />
-</div>
-<br/>
-
-<div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FelipeMeloF&layout=compact&theme=tokyonight&hide_border=true&hide=kotlin" alt="Top Languages" />
 </div>
 
@@ -120,11 +110,25 @@ Here are some of my key public contributions to the community:
 
 I conduct cutting-edge research in BCI (*Brain-Computer Interfaces*) and Accessibility:
 
-*   📖 [Using Eye Tracking to Map Attention in an EEG-Based Brainwave Graphic Visualization System](https://doi.org/10.1007/978-3-031-45611-4_9) *(jAUTI 2022, Spain / Springer)*
-*   📖 [Handbook of Research on Interaction and Media](http://www.editora.ufpb.br/sistema/press5/index.php/UFPB/catalog/book/1145) *(UFPB Press)*
-*   📖 [Research on Brain-Computer Interfaces in the Entertainment Field](https://link.springer.com/chapter/10.1007/978-3-031-35596-7_26) *(HCI International 2023, Denmark / Springer)*
-*   📖 [Heuristic-Based Evaluation of Transparency Websites of Municipal Governments](https://link.springer.com/chapter/10.1007/978-3-031-35599-8_29) *(HCI International 2023)*
-*   📖 [Visualization of brainwaves using EEG to map emotions with Eye Tracking](https://dl.acm.org/doi/fullHtml/10.1145/3539637.3557055) *(WebMedia 2022 / ACM)*
+*   📖 [Avaliação de Sistemas de Governo Aberto e de Transparência Pública nas Capitais Brasileiras: Heurísticas e Wave Aplicadas Em Dispositivos e Módulos Web e Mobile]() *(Cadernos Gestão Pública e Cidadania, v. 30 (2025): Volume único. FGV. Rio de Janeiro, Brazil)*
+*   📖 [Theoretical test using Libras to obtain the National Driver's License: Exploratory usability assessment with interpreters and deaf people](https://dl.acm.org/doi/10.1145/3702038.3702051) *(IHC '24: Proceedings of the XXIII Brazilian Symposium on Human Factors in Computing Systems, Brasília, Brazil / ACM Digital Library)*
+*   📖 [Transparência pública em dispositivos móveis: A avaliação baseada em heurísticas aplicada à análise de portais de transparência de capitais brasileiras]() *(XII Iberoamerican Conference on Applications and Usability of Interactive TV (jAUTI2023), Havana, Cuba / Springer)*
+*   📖 [Identificação da Atenção do Aluno na Educação à Distância usando EEG e Eye Tracking](https://link.springer.com/book/10.1007/978-3-031-70439-0) *(XII Iberoamerican Conference on Applications and Usability of Interactive TV (jAUTI2023), Havana, Cuba / Springer)*
+*   📖 [ANÁLISE DA DECISÃO DO CONSUMIDOR EM LOJAS DE VAREJO: Mapeamento da Atividade Cerebral por meio do EEG e aplicação de Nudge]() *(Congresso Latino Americado de Varejo e consumo (CLAV 2024), FGV EAESP, São Paulo, Brazil)*
+*   📖 [Public Transparency on Mobile Devices: An Evaluation of Brazilian Capital Transparency Portals Based on Heuristics](https://link.springer.com/chapter/10.1007/978-3-031-70439-0_7) *(Applications and Usability of Interactive TV (jAUTI 2023), Havana, Cuba / Springer)*
+*   📖 [Using EEG and Eye-Tracking to Identify Student Attention in Distance Education](https://link.springer.com/chapter/10.1007/978-3-031-70439-0_8) *(Applications and Usability of Interactive TV (jAUTI 2023), Havana, Cuba / Springer)*
+*   📖 [Public Transparency in Brazil: Evaluation of Transparency Websites and Portals of Local Governments with More Than 200 Thousand Inhabitants](https://link.springer.com/chapter/10.1007/978-3-031-61351-7_19) *(HCI International 2024, Washington DC, United States / Springer)*
+*   📖 [Reflexões Acadêmicas sobre Cibersegurança: Fortalecendo a Resiliência Digital da Sociedade](https://drive.google.com/file/d/1gEdfKppFU9NJGwA7_VfReUOgXCCiHKc8/view) *(2024 / CBL - Câmara Brasileira do Livro)*
+*   📖 [What do Portuguese-Libras automatic translation application users care about? An analysis of user comments to improve application accessibility by the quality assurance team](https://dl.acm.org/doi/10.1145/3630970.3631069) *(XI Latin American Conference on Human Computer Interaction (CLIHC 2023), Puebla, Mexico / ACM Digital Library)*
+*   📖 [Mapeando a Atenção do Aluno na Educação à Distância com EEG e Eye Tracking](https://www.tise.cl/2023/doc/FullPapers/TISE_2023_paper_41.pdf) *(Conferência Internacional sobre Informática na Educação (TISE) 2023, Santiago, Chile / Universidad de Chile)*
+*   📖 [Testes com usuários para análise de emoções em conteúdos audiovisuais utilizando EEG e eye tracking](https://sol.sbc.org.br/index.php/webmedia_estendido/article/view/25676) *(Webmedia 2023, Ribeirão Preto, São Paulo, Brazil / Sociedade Brasileira de Computação)*
+*   📖 [Using Eye Tracking to Map Attention in an EEG-Based Brainwave Graphic Visualization System](https://doi.org/10.1007/978-3-031-45611-4_9) *(jAUTI 2022, Cordoba, Spain / Springer)*
+*   📖 [Handbook of Research on Interaction and Media](http://www.editora.ufpb.br/sistema/press5/index.php/UFPB/catalog/book/1145) *(UFPB Press)* 
+*   📖 [Incorporating Eye Tracking into an EEG-Based Brainwave Visualization System](https://link.springer.com/chapter/10.1007/978-3-031-35596-7_25) *(HCI International 2023, Copenhagen, Denmark / Springer)*
+*   📖 [Heuristic-Based Evaluation of Transparency Websites of the Municipal Governments Viewed on Web and Mobile Browsers](https://link.springer.com/chapter/10.1007/978-3-031-35599-8_29) *(HCI International 2023, Copenhagen, Denmark / Springer)*
+*   📖 [Research on Brain-Computer Interfaces in the Entertainment Field](https://link.springer.com/chapter/10.1007/978-3-031-35596-7_26) *(HCI International 2023, Copenhagen, Denmark / Springer)*
+*   📖 [Visualization of brainwaves using EEG to map emotions with Eye Tracking](https://dl.acm.org/doi/fullHtml/10.1145/3539637.3557055) *(WebMedia 2022, Curitiba, Brazil / ACM)*
+*   📖 [A System for Graphical Visualization of Brainwaves to Analyse Media Content Consumption](https://link.springer.com/chapter/10.1007/978-3-031-05409-9_24) *(HCI International 2022, Gothenburg, Sweden / Springer)*
 
 ---
 
