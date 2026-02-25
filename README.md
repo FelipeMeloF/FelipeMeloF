@@ -5,7 +5,7 @@
 # About myself
 
 Hello, my name is Felipe and I'm from Brazil. I'm a Computer Engineering student at UFPB and have been focusing my studies on Quality Assurence,
-more specifically on Automatic Software Tests. I'm Software Quality Analyst (QA) at Vsoft. I have experience in C/C++, I have notions of object orientation, data structure, concurrent programming. I'm currently studying software testing, Quality Assurance and I'm still improving my English and French. I am a Scientific Initiation student, I have been working on the project "Computer Brain Interaction in on-demand video systems: evaluation, recommendation and value perceptions" at the Interaction and Media Laboratory - LIM.
+more specifically on Automatic Software Tests. I'm Software Quality Analyst (QA) at Vsoft. Over 5 years of experience in software testing and quality, with international ISTQB certification (CTFL-AT and CTFL). I have worked in all areas of quality assurance, from requirements gathering, functional and non-functional testing, manual, automated, oil and regression testing. Experience in agile methodologies. My goal is to improve my soft and hard skills, reach a Tech Lead position, and soon obtain CTAL-TM, CT-MAT, CT-GenAI certification and an MBA in Software Quality Management. Experience: Mid-level/Senior.
 
 # Volunteer Experience
 - Ex-President and Founder of the [Compilada](https://www.instagram.com/atleticaengcomp_ufpb/) (Computer Engineering Academic Athletic Association).
