@@ -57,96 +57,28 @@ My main goal is to achieve technical excellence and secure a position as a **Tec
 
 ## 🏢 Professional Experience
 
-<ul>
-  <li>
-    <a href="https://simiatech.com.br"><b>Simia Tech</b></a>
-    <ul>
-      <li>
-        <b>CEO & Founder</b> <i>(Present)</i><br/>
-        Leading a Software House, defining technical architecture, ensuring software quality standards, and managing innovative tech projects.
-      </li>
-    </ul>
-  </li>
-</ul>
+*   **[Simia Tech](https://simiatech.com.br)**
+    *   **CEO & Founder** *(Present)*<br/>Leading a Software House, defining technical architecture, ensuring software quality standards, and managing innovative tech projects.
 
-<ul>
-  <li>
-    <a href="https://www.vsoft.com.br"><b>Vsoft</b></a>
-    <ul>
-      <li>
-        <b>Mid-Level Software Quality Analyst (QA)</b> <i>(Apr 2024 - Present)</i><br/>
-        Direct involvement in continuous improvement and quality assurance for the Exame Prático product. Creating test plans and test cases.
-      </li>
-      <li>
-        <b>Junior II Software Quality Analyst (QA)</b> <i>(Dec 2022 - Mar 2024)</i><br/>
-        Continuous improvement and quality assurance for Exame Teórico and Exame Prático products.
-      </li>
-      <li>
-        <b>Trainee Software Quality Analyst (QA)</b> <i>(May 2022 - Nov 2022)</i><br/>
-        Continuous improvement and quality assurance for Exame Teórico and Exame Prático products.
-      </li>
-    </ul>
-  </li>
-</ul>
+*   **[Vsoft](https://www.vsoft.com.br)**
+    *   **Mid-Level Software Quality Analyst (QA)** *(Apr 2024 - Present)*<br/>Direct involvement in continuous improvement and quality assurance for the Exame Prático product. Creating test plans and test cases.
+    *   **Junior II Software Quality Analyst (QA)** *(Dec 2022 - Mar 2024)*<br/>Continuous improvement and quality assurance for Exame Teórico and Exame Prático products.
+    *   **Trainee Software Quality Analyst (QA)** *(May 2022 - Nov 2022)*<br/>Continuous improvement and quality assurance for Exame Teórico and Exame Prático products.
 
-<ul>
-  <li>
-    <b>LIM - Laboratório de Interação e Mídia</b>
-    <ul>
-      <li>
-        <b>QA Technical Lead & Researcher</b> <i>(Sep 2021 - Present)</i><br/>
-        Responsible for leading all functional, non-functional, and usability tests in the laboratory.
-      </li>
-      <li>
-        <b>Project Manager</b> <i>(Sep 2023 - Sep 2024)</i><br/>
-        Managed all projects within the laboratory, including Web Development and Software R&D teams.
-      </li>
-      <li>
-        <b>Scientific Initiation Scholar (CNPq)</b> <i>(Sep 2021 - Sep 2024)</i><br/>
-        Project topic: "Brain-Computer Interaction in video-on-demand systems: evaluation, recommendation, and value perceptions."
-      </li>
-    </ul>
-  </li>
-</ul>
+*   **[LIM - Laboratório de Interação e Mídia](https://www.ci.ufpb.br/lim)**
+    *   **QA Technical Lead & Researcher** *(Sep 2021 - Present)*<br/>Responsible for leading all functional, non-functional, and usability tests in the laboratory.
+    *   **Project Manager** *(Sep 2023 - Sep 2024)*<br/>Managed all projects within the laboratory, including Web Development and Software R&D teams.
+    *   **Scientific Initiation Scholar (CNPq)** *(Sep 2021 - Sep 2024)*<br/>Project topic: "Brain-Computer Interaction in video-on-demand systems: evaluation, recommendation, and value perceptions."
 
-<ul>
-  <li>
-    <b>LAVID - Laboratório de Aplicações de Vídeo Digital</b>
-    <ul>
-      <li>
-        <b>UX and Software Accessibility Researcher</b> <i>(Jul 2023 - Feb 2024)</i>
-      </li>
-      <li>
-        <b>Software Test Analyst (QA) – Internship</b> <i>(Nov 2021 - Jul 2023)</i><br/>
-        Maintenance and creation of test cases, execution of manual and automated system tests, and bug documentation.
-      </li>
-    </ul>
-  </li>
-</ul>
+*   **[LAVID - Laboratório de Aplicações de Vídeo Digital](https://www.ci.ufpb.br/lavid/)**
+    *   **UX and Software Accessibility Researcher** *(Jul 2023 - Feb 2024)*
+    *   **Software Test Analyst (QA) – Internship** *(Nov 2021 - Jul 2023)*<br/>Maintenance and creation of test cases, execution of manual and automated system tests, and bug documentation.
 
-<ul>
-  <li>
-    <a href="https://fuze.cc/"><b>Fuze.cc</b></a>
-    <ul>
-      <li>
-        <b>Software Test Analyst (QA) – Internship</b> <i>(Dec 2021 - Aug 2022)</i><br/>
-        Maintenance and elaboration of test cases, manual and automated system tests, and regression testing using agile methodologies. Used Appium and Webdriver.io.
-      </li>
-    </ul>
-  </li>
-</ul>
+*   **[Fuze.cc](https://fuze.cc/)**
+    *   **Software Test Analyst (QA) – Internship** *(Dec 2021 - Aug 2022)*<br/>Maintenance and elaboration of test cases, manual and automated system tests, and regression testing using agile methodologies. Used Appium and Webdriver.io.
 
-<ul>
-  <li>
-    <b>Universidade Federal da Paraíba (UFPB)</b>
-    <ul>
-      <li>
-        <b>Academic Monitor</b> <i>(Sep 2020 - Dec 2020)</i><br/>
-        Monitor for the "Vector Calculus and Analytical Geometry" discipline.
-      </li>
-    </ul>
-  </li>
-</ul>
+*   **Universidade Federal da Paraíba (UFPB)**
+    *   **Academic Monitor** *(Sep 2020 - Dec 2020)*<br/>Monitor for the "Vector Calculus and Analytical Geometry" discipline.
 
 ### 🌍 Leadership & Volunteer Experience
 *   Compilada (UFPB Computer Eng. Athletic Association) - Former President and Founder.
