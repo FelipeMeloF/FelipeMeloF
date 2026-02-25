@@ -37,6 +37,8 @@ My main goal is to achieve technical excellence and secure a position as a **Tec
 ### Languages
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 </p>
@@ -46,18 +48,18 @@ My main goal is to achieve technical excellence and secure a position as a **Tec
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FelipeMeloF&theme=tokyonight&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://streak-stats.demolab.com?user=FelipeMeloF&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeMeloF&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMeloF&layout=compact&theme=tokyonight&hide_border=true&hide=kotlin" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=FelipeMeloF&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FelipeMeloF&layout=compact&theme=tokyonight&hide_border=true&hide=kotlin" alt="Top Languages" width="48%" />
 </div>
 
 <br/>
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=FelipeMeloF&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=ffffff&area=true&hide_border=true&count_private=true" alt="Activity Graph" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeMeloF&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="90%"/>
 </div>
 
 ---
@@ -66,10 +68,10 @@ My main goal is to achieve technical excellence and secure a position as a **Tec
 
 <ul>
   <li>
-    <a href="https://simiatech.com.br"><b>Simia Tech</b></a>: CEO & Founder
+    <a href="https://simiatech.com.br">Simia Tech</a>: CEO & Founder
     <ul>
       <li>
-        <b> Focus: Leading a Software House, defining technical architecture, ensuring software quality standards, and managing innovative tech projects. </b> <b>(Current)</b>
+        <b> Focus: </b> Leading a Software House, defining technical architecture, ensuring software quality standards, and managing innovative tech projects. (Current)
       </li>
     </ul>
   </li>
@@ -77,10 +79,10 @@ My main goal is to achieve technical excellence and secure a position as a **Tec
 
 <ul>
   <li>
-    <b>Vsoft</b>: QA Analyst (Mid/Senior)
+    <a href="https://www.vsoft.com.br">Vsoft</a>: QA Analyst (Mid/Senior)
     <ul>
       <li>
-        <b> Focus: Test automation and quality analysis. </b> <b>(Current)</b>
+        <b> Focus: </b> Test automation and quality analysis. (Current)
       </li>
     </ul>
   </li>
@@ -98,9 +100,9 @@ My main goal is to achieve technical excellence and secure a position as a **Tec
 </ul>
 
 ### 🌍 Leadership & Volunteer Experience
-*   **Compilada (UFPB Computer Eng. Athletic Association)** - Former President and Founder.
-*   **CAECOMP (Academic Center)** - Former President.
-*   **Research Laboratories:** Researcher at LIM (Human-Media Interaction), LAViD (Digital Video), and member of LASER (Systems and Robotics).
+*   Compilada (UFPB Computer Eng. Athletic Association) - Former President and Founder.
+*   CAECOMP (Academic Center) - Former President.
+*   Research Laboratories: Researcher at LIM (Human-Media Interaction), LAViD (Digital Video), and member of LASER (Systems and Robotics).
 
 ---
 
@@ -108,7 +110,7 @@ My main goal is to achieve technical excellence and secure a position as a **Tec
 
 Here are some of my key public contributions to the community:
 
-*   👁️ **[HeuriLens](https://github.com/FelipeMeloF/HeuriLens)** - *Creator & Maintainer*
+*   👁️ [HeuriLens](https://github.com/FelipeMeloF/HeuriLens) - *Creator & Maintainer*
     An innovative open-source project aimed at advancing accessibility and usability through heuristic evaluations and technology.
 
 ---
